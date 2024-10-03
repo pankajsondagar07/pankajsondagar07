@@ -20,3 +20,10 @@
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar07&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar07&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
+
+<a href="https://github.com/pankajsondagar07/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pankajsondagar07&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/pankajsondagar07/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pankajsondagar07&repo=convoychat" />
+</a>
