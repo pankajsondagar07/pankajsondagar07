@@ -22,3 +22,5 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar07)](https://github.com/pankajsondagar07/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar07&langs_count=8)
