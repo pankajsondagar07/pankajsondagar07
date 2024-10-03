@@ -22,8 +22,8 @@
 </a>
 
 <a href="https://github.com/pankajsondagar07/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pankajsondagar07&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsondagar07" />
 </a>
 <a href="https://github.com/pankajsondagar07/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pankajsondagar07&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsondagar07&layout=compact&langs_count=8&card_width=320" />
 </a>
