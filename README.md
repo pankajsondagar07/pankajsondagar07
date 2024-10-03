@@ -4,6 +4,8 @@
 ![SYMFONY](https://img.shields.io/badge/symfony-%23262626.svg?style=for-the-badge&logo=symfony&logoColor=white) 
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23262626.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 
+![](https://komarev.com/ghpvc/?username=pankajsondagar07)
+
 <a href="https://github-contributor-stats.vercel.app/api?username=pankajsondagar07&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
   <img src="https://github-contributor-stats.vercel.app/api?username=pankajsondagar07&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
 </a>
