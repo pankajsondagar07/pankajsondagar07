@@ -13,9 +13,7 @@
 <a href="https://streak-stats.demolab.com?user=pankajsondagar07&theme=transparent&hide_border=true" target="_blank">
 <img height=200  src="https://streak-stats.demolab.com?user=pankajsondagar07&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar07&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
-  <img height=200 src="https://github.com/pankajsondagar07/github-readme-stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselalhide=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar07&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar07&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
