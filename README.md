@@ -21,9 +21,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar07&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
 
-<a href="https://github.com/pankajsondagar07/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsondagar07" />
-</a>
-<a href="https://github.com/pankajsondagar07/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsondagar07&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
