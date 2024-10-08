@@ -6,9 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=pankajsondagar07)
 
-![](https://github-readme-stats.vercel.app/api?username=pankajsondagarj07&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pankajsondagarj07&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pankajsondagar07&theme=merko&hide_border=true)<br/>
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondaga07r&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar07&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
