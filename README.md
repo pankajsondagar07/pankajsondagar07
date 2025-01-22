@@ -3,6 +3,9 @@
 ![LARAVEL](https://img.shields.io/badge/laravel-%23F9322C.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![SYMFONY](https://img.shields.io/badge/symfony-%23262626.svg?style=for-the-badge&logo=symfony&logoColor=white) 
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23262626.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![VUE](https://img.shields.io/badge/vue.js-%23262626.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![NODE](https://img.shields.io/badge/node.js-%23262626.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
+![REACT](https://img.shields.io/badge/react-%23262626.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![](https://komarev.com/ghpvc/?username=pankajsondagar07)
 
